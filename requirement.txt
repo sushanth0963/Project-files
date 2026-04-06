@@ -1,5 +1,7 @@
-numpy
-pandas
 streamlit
-joblib
+pandas
+numpy
+pillow
+pytesseract
 scikit-learn
+xgboost
