@@ -698,5 +698,4 @@ elif page == "📊 Prediction":
             st.rerun()
 
     else:
->>>>>>> 74c82e99818e6e5da7d2f1a6188fea963801108e
-        st.info("No predictions made yet.")
+    st.info("No predictions made yet.")
