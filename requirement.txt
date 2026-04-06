@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 pandas
 streamlit
@@ -7,3 +8,12 @@ streamlit
 pillow
 pytesseract
 scikit-learn
+=======
+streamlit
+pandas
+numpy
+pillow
+pytesseract
+scikit-learn
+xgboost
+>>>>>>> 74c82e99818e6e5da7d2f1a6188fea963801108e
