@@ -1,5 +1,6 @@
 # Healthcare Claim Prediction System
-##📌 Project Overview
+---
+## 📌 Project Overview
 
 A Streamlit-based machine learning app for 🏥 **Healthcare Insurance claim prediction system** built using **Python, Streamlit, OCR, and Scikit-learn**.
 
