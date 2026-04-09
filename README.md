@@ -1,5 +1,6 @@
 # Healthcare Claim Prediction System
 ##📌 Project Overview
+
 A Streamlit-based machine learning app for 🏥 **Healthcare Insurance claim prediction system** built using **Python, Streamlit, OCR, and Scikit-learn**.
 
 This application predicts whether a healthcare insurance claim is likely to be **Approved, At Risk, or Denied**, along with the **denial probability percentage** and clear reasoning based on business rules.
